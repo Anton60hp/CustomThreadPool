@@ -1,8 +1,6 @@
 # CustomThreadPool
 
 ## Анализ производительности
-  CustomThreadPool   ThreadPoolExecutor	  Tomcat
-Производительность*	~110%	100%	~95%	~105%
 | Характеристика  | CustomThreadPool  | ThreadPoolExecutor | Tomcat  |
 |------------------|-------------|-----------------|----------|
 | Гибкость настройки  | Высокая         | Высокая            | Низкая    |
